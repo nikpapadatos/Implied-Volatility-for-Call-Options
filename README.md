@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on analyzing **Bank of America's** financial data using two distinct methods to calculate it's call option implied volatility:
+This project focuses on analyzing **Bank of America's** financial data using two distinct methods to calculate its call option implied volatility:
 
 1. **Black-Scholes Model**: Using financial statements from **Bank of America**, including data from quarterly call reports, the implied volatility was calculated by treating the bank's equity as a call option. Total assets were used as the current stock price and total liabilities as the strike price. The Black-Scholes model was applied with assumptions about asset volatility, risk-free rates, and a zero-coupon bond structure.
 
