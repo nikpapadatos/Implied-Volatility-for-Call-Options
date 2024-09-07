@@ -13,4 +13,3 @@ Both methods revealed patterns in implied volatility over time and across strike
 ## References
 - Bank of America Corporation (BAC) - Options [Link to paper](https://finance.yahoo.com/quote/BAC/options/) 
 - Black-Scholes Formula and Python Implementation [Link to paper](https://aaronschlegel.me/black-scholes-formula-python.html)
-- 
